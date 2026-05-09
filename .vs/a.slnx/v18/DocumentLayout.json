@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabia\\OneDrive\\Desktop\\informatica 3er semestre\\programacion.NET\\a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\fabia\\onedrive\\desktop\\informatica 3er semestre\\programacion.net\\a\\a\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\fabia\\onedrive\\desktop\\informatica 3er semestre\\programacion.net\\a\\a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\OneDrive\\Desktop\\informatica 3er semestre\\programacion.NET\\a\\a\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "a\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\fabia\\OneDrive\\Desktop\\informatica 3er semestre\\programacion.NET\\a\\a\\Models\\Class.cs",
+              "RelativeToolTip": "a\\Models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T18:56:59.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\OneDrive\\Desktop\\informatica 3er semestre\\programacion.NET\\a\\a\\Program.cs",
+              "RelativeDocumentMoniker": "a\\Program.cs",
+              "ToolTip": "C:\\Users\\fabia\\OneDrive\\Desktop\\informatica 3er semestre\\programacion.NET\\a\\a\\Program.cs",
+              "RelativeToolTip": "a\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T18:50:39.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
