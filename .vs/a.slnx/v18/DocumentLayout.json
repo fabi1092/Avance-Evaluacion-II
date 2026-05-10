@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\tampi\\onedrive\\documentos\\github\\avance-evaluacion-ii\\a\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\tampi\\onedrive\\documentos\\github\\avance-evaluacion-ii\\a\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\tampi\\onedrive\\documentos\\github\\avance-evaluacion-ii\\a\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\tampi\\onedrive\\documentos\\github\\avance-evaluacion-ii\\a\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\tampi\\onedrive\\documentos\\github\\avance-evaluacion-ii\\a\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\tampi\\onedrive\\documentos\\github\\avance-evaluacion-ii\\a\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\tampi\\onedrive\\documentos\\github\\avance-evaluacion-ii\\a\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\tampi\\onedrive\\documentos\\github\\avance-evaluacion-ii\\a\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "HomeController1.cs",
+              "DocumentMoniker": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Controllers\\HomeController1.cs",
+              "RelativeDocumentMoniker": "a\\Controllers\\HomeController1.cs",
+              "ToolTip": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Controllers\\HomeController1.cs",
+              "RelativeToolTip": "a\\Controllers\\HomeController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:07:13.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Views\\productos\\Index.cshtml",
               "RelativeDocumentMoniker": "a\\Views\\productos\\Index.cshtml",
@@ -42,12 +59,11 @@
               "RelativeToolTip": "a\\Views\\productos\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-09T23:40:19.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-10T22:06:52.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PacienteController.cs",
               "DocumentMoniker": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Controllers\\PacienteController.cs",
               "RelativeDocumentMoniker": "a\\Controllers\\PacienteController.cs",
@@ -55,12 +71,12 @@
               "RelativeToolTip": "a\\Controllers\\PacienteController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T23:39:58.884Z",
+              "WhenOpened": "2026-05-10T22:06:52.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "a\\Views\\Home\\Index.cshtml",
@@ -68,12 +84,11 @@
               "RelativeToolTip": "a\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-09T22:55:24.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-10T22:06:52.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "a\\Controllers\\HomeController.cs",
@@ -81,20 +96,20 @@
               "RelativeToolTip": "a\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T22:55:04.626Z",
+              "WhenOpened": "2026-05-10T22:06:52.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Class.cs",
               "DocumentMoniker": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Models\\Class.cs",
               "RelativeDocumentMoniker": "a\\Models\\Class.cs",
               "ToolTip": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Models\\Class.cs",
               "RelativeToolTip": "a\\Models\\Class.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T22:54:21.467Z",
+              "WhenOpened": "2026-05-10T22:06:52.918Z",
               "EditorCaption": ""
             }
           ]
