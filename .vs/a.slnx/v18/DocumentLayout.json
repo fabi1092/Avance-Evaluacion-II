@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\jfabi\\OneDrive\\Im\u00E1genes\\Escritorio\\Nueva carpeta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\jfabi\\onedrive\\im\u00E1genes\\escritorio\\nueva carpeta\\a\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\jfabi\\onedrive\\im\u00E1genes\\escritorio\\nueva carpeta\\a\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\jfabi\\onedrive\\im\u00E1genes\\escritorio\\nueva carpeta\\a\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\jfabi\\onedrive\\im\u00E1genes\\escritorio\\nueva carpeta\\a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\jfabi\\onedrive\\im\u00E1genes\\escritorio\\nueva carpeta\\a\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\jfabi\\onedrive\\im\u00E1genes\\escritorio\\nueva carpeta\\a\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\jfabi\\onedrive\\im\u00E1genes\\escritorio\\nueva carpeta\\a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\jfabi\\onedrive\\im\u00E1genes\\escritorio\\nueva carpeta\\a\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\jfabi\\OneDrive\\Im\u00E1genes\\Escritorio\\Nueva carpeta\\a\\appsettings.json",
               "RelativeDocumentMoniker": "a\\appsettings.json",
@@ -47,26 +47,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeController1.cs",
               "DocumentMoniker": "C:\\Users\\jfabi\\OneDrive\\Im\u00E1genes\\Escritorio\\Nueva carpeta\\a\\Controllers\\HomeController1.cs",
               "RelativeDocumentMoniker": "a\\Controllers\\HomeController1.cs",
               "ToolTip": "C:\\Users\\jfabi\\OneDrive\\Im\u00E1genes\\Escritorio\\Nueva carpeta\\a\\Controllers\\HomeController1.cs",
               "RelativeToolTip": "a\\Controllers\\HomeController1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-09T18:44:39.497Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\jfabi\\OneDrive\\Im\u00E1genes\\Escritorio\\Nueva carpeta\\a\\Views\\productos\\Index.cshtml",
               "RelativeDocumentMoniker": "a\\Views\\productos\\Index.cshtml",
               "ToolTip": "C:\\Users\\jfabi\\OneDrive\\Im\u00E1genes\\Escritorio\\Nueva carpeta\\a\\Views\\productos\\Index.cshtml",
               "RelativeToolTip": "a\\Views\\productos\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-09T18:56:06.584Z",
               "EditorCaption": ""
@@ -86,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jfabi\\OneDrive\\Im\u00E1genes\\Escritorio\\Nueva carpeta\\a\\Program.cs",
               "RelativeDocumentMoniker": "a\\Program.cs",
