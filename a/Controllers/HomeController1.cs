@@ -1,25 +1,19 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using a.Models;
 
 namespace a.Controllers
 {
-    public class HomeController1 : Controller
-    { }
-
-namespace a.Controllers
+    public class PacientesController : Controller
     {
-        public class ProductosController : Controller
+        public IActionResult Index()
         {
-            public IActionResult Index()
+            var pacientes = new List<Paciente>
             {
-                var productos = new List<dynamic>
-            {
-                new { Id = 1, Nombre = "Mouse", Precio = 10000 },
-                new { Id = 2, Nombre = "Teclado", Precio = 20000 },
-                new { Id = 3, Nombre = "Monitor", Precio = 150000 }
+                new Paciente { Id = 1, Nombre = "Juan Pérez", rut = "12.345.678-9", Peso = 70, correo = "juan@correo.com", TipoSangre = "O+", alergias = false, Prevision = true },
+                new Paciente { Id = 2, Nombre = "María Soto", rut = "11.222.333-4", Peso = 62, correo = "maria@correo.com", TipoSangre = "A+", alergias = true, Prevision = true }
             };
 
-                return View(productos);
-            }
+            return View(pacientes);
         }
     }
 }
