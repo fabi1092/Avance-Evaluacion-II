@@ -1,12 +1,17 @@
-﻿@model IEnumerable<dynamic>
+﻿@model IEnumerable<a.Models.Paciente>
 
-<h2>Lista de Productos</h2>
+<h2>Lista de Pacientes</h2>
 
-<table border="1">
+<table border="1" cellpadding="8">
     <tr>
         <th>ID</th>
         <th>Nombre</th>
-        <th>Precio</th>
+        <th>RUT</th>
+        <th>Peso</th>
+        <th>Correo</th>
+        <th>Tipo Sangre</th>
+        <th>Alergias</th>
+        <th>Previsión</th>
     </tr>
 
     @foreach (var item in Model)
@@ -14,7 +19,12 @@
         <tr>
             <td>@item.Id</td>
             <td>@item.Nombre</td>
-            <td>@item.Precio</td>
+            <td>@item.rut</td>
+            <td>@item.Peso</td>
+            <td>@item.correo</td>
+            <td>@item.TipoSangre</td>
+            <td>@(item.alergias ? "Sí" : "No")</td>
+            <td>@(item.Prevision ? "Sí" : "No")</td>
         </tr>
     }
 </table>
