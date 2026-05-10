@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jfabi\\OneDrive\\Imágenes\\Escritorio\\Nueva carpeta\\a\\a.csproj": {}
+    "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\a.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jfabi\\OneDrive\\Imágenes\\Escritorio\\Nueva carpeta\\a\\a.csproj": {
+    "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\a.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jfabi\\OneDrive\\Imágenes\\Escritorio\\Nueva carpeta\\a\\a.csproj",
+        "projectUniqueName": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\a.csproj",
         "projectName": "a",
-        "projectPath": "C:\\Users\\jfabi\\OneDrive\\Imágenes\\Escritorio\\Nueva carpeta\\a\\a.csproj",
-        "packagesPath": "C:\\Users\\jfabi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jfabi\\OneDrive\\Imágenes\\Escritorio\\Nueva carpeta\\a\\obj\\",
+        "projectPath": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\a.csproj",
+        "packagesPath": "C:\\Users\\tampi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jfabi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tampi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,12 +26,10 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -50,7 +48,6 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -71,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

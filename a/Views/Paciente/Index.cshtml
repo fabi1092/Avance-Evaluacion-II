@@ -1,0 +1,35 @@
+@model IEnumerable<a.Models.Paciente>
+
+<h2>Registro de Pacientes</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>RUT</th>
+            <th>Nacimiento</th>
+            <th>Peso (kg)</th>
+            <th>Correo</th>
+            <th>Alergias</th>
+            <th>Tipo Sangre</th>
+            <th>Previsión</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.Id</td>
+                <td>@p.Nombre</td>
+                <td>@p.rut</td>
+                <td>@p.Nacimiento.ToShortDateString()</td>
+                <td>@p.Peso</td>
+                <td>@p.correo</td>
+                <td>@(p.alergias ? "Sí" : "No")</td>
+                <td>@p.TipoSangre</td>
+                <td>@(p.Prevision ? "Sí" : "No")</td>
+            </tr>
+        }
+    </tbody>
+</table>
