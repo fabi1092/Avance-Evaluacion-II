@@ -195,3 +195,6 @@ C:\Users\jfabi\OneDrive\Imágenes\Escritorio\Nueva carpeta\a\obj\Debug\net10.0\s
 C:\Users\jfabi\OneDrive\Imágenes\Escritorio\Nueva carpeta\a\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\jfabi\OneDrive\Imágenes\Escritorio\Nueva carpeta\a\obj\Debug\net10.0\a.genruntimeconfig.cache
 C:\Users\jfabi\OneDrive\Imágenes\Escritorio\Nueva carpeta\a\obj\Debug\net10.0\ref\a.dll
+C:\Users\fabia\OneDrive\Desktop\trabajo.net\trabajo.net\a\a\obj\Debug\net10.0\a.dll
+C:\Users\fabia\OneDrive\Desktop\trabajo.net\trabajo.net\a\a\obj\Debug\net10.0\refint\a.dll
+C:\Users\fabia\OneDrive\Desktop\trabajo.net\trabajo.net\a\a\obj\Debug\net10.0\a.pdb

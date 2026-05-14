@@ -1,44 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\",
+  "WorkspaceRootPath": "C:\\Users\\fabia\\OneDrive\\Desktop\\trabajo.net\\trabajo.net\\a\\",
   "Documents": [
     {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\tampi\\onedrive\\documentos\\github\\avance-evaluacion-ii\\a\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\jfabi\\onedrive\\im\u00E1genes\\escritorio\\nueva carpeta\\a\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
->>>>>>> af62adbc0c8d2c7e966987bb5e5a3f6abc6dfe85
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fabia\\OneDrive\\Desktop\\trabajo.net\\trabajo.net\\a\\a\\Models\\Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:a\\Models\\Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\tampi\\onedrive\\documentos\\github\\avance-evaluacion-ii\\a\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fabia\\OneDrive\\Desktop\\trabajo.net\\trabajo.net\\a\\a\\Controllers\\PacienteController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:a\\Controllers\\PacienteController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\tampi\\onedrive\\documentos\\github\\avance-evaluacion-ii\\a\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fabia\\OneDrive\\Desktop\\trabajo.net\\trabajo.net\\a\\a\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:a\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\tampi\\onedrive\\documentos\\github\\avance-evaluacion-ii\\a\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fabia\\OneDrive\\Desktop\\trabajo.net\\trabajo.net\\a\\a\\a.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:a\\a.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\tampi\\onedrive\\documentos\\github\\avance-evaluacion-ii\\a\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\jfabi\\onedrive\\im\u00E1genes\\escritorio\\nueva carpeta\\a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Controllers\\HomeController1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\jfabi\\onedrive\\im\u00E1genes\\escritorio\\nueva carpeta\\a\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Views\\productos\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|c:\\users\\jfabi\\onedrive\\im\u00E1genes\\escritorio\\nueva carpeta\\a\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9B6F84A6-DE06-DE8C-4643-6E6087D867DF}|a\\a.csproj|solutionrelative:a\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
->>>>>>> af62adbc0c8d2c7e966987bb5e5a3f6abc6dfe85
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fabia\\OneDrive\\Desktop\\trabajo.net\\trabajo.net\\a\\a\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:a\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fabia\\OneDrive\\Desktop\\trabajo.net\\trabajo.net\\a\\a\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:a\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,115 +40,103 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Views\\productos\\Index.cshtml",
-              "RelativeDocumentMoniker": "a\\Views\\productos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Views\\productos\\Index.cshtml",
-              "RelativeToolTip": "a\\Views\\productos\\Index.cshtml",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\OneDrive\\Desktop\\trabajo.net\\trabajo.net\\a\\a\\Program.cs",
+              "RelativeDocumentMoniker": "a\\Program.cs",
+              "ToolTip": "C:\\Users\\fabia\\OneDrive\\Desktop\\trabajo.net\\trabajo.net\\a\\a\\Program.cs",
+              "RelativeToolTip": "a\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T20:32:06.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "a.csproj",
+              "DocumentMoniker": "C:\\Users\\fabia\\OneDrive\\Desktop\\trabajo.net\\trabajo.net\\a\\a\\a.csproj",
+              "RelativeDocumentMoniker": "a\\a.csproj",
+              "ToolTip": "C:\\Users\\fabia\\OneDrive\\Desktop\\trabajo.net\\trabajo.net\\a\\a\\a.csproj",
+              "RelativeToolTip": "a\\a.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-09T23:40:19.914Z",
-=======
-          "SelectedChildIndex": 2,
-          "Children": [
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-12T20:32:03.368Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\jfabi\\OneDrive\\Im\u00E1genes\\Escritorio\\Nueva carpeta\\a\\appsettings.json",
-              "RelativeDocumentMoniker": "a\\appsettings.json",
-              "ToolTip": "C:\\Users\\jfabi\\OneDrive\\Im\u00E1genes\\Escritorio\\Nueva carpeta\\a\\appsettings.json",
-              "RelativeToolTip": "a\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-09T02:10:13.347Z",
->>>>>>> af62adbc0c8d2c7e966987bb5e5a3f6abc6dfe85
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 0,
-              "Title": "PacienteController.cs",
-              "DocumentMoniker": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Controllers\\PacienteController.cs",
-              "RelativeDocumentMoniker": "a\\Controllers\\PacienteController.cs",
-              "ToolTip": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Controllers\\PacienteController.cs",
-              "RelativeToolTip": "a\\Controllers\\PacienteController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-=======
-              "DocumentIndex": 3,
               "Title": "HomeController1.cs",
-              "DocumentMoniker": "C:\\Users\\jfabi\\OneDrive\\Im\u00E1genes\\Escritorio\\Nueva carpeta\\a\\Controllers\\HomeController1.cs",
-              "RelativeDocumentMoniker": "a\\Controllers\\HomeController1.cs",
-              "ToolTip": "C:\\Users\\jfabi\\OneDrive\\Im\u00E1genes\\Escritorio\\Nueva carpeta\\a\\Controllers\\HomeController1.cs",
-              "RelativeToolTip": "a\\Controllers\\HomeController1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
->>>>>>> af62adbc0c8d2c7e966987bb5e5a3f6abc6dfe85
+              "DocumentMoniker": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Controllers\\HomeController1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Controllers\\HomeController1.cs",
+              "ToolTip": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Controllers\\HomeController1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Controllers\\HomeController1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T23:39:58.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-10T22:07:13.224Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-<<<<<<< HEAD
-              "DocumentMoniker": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "a\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "a\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-=======
-              "DocumentMoniker": "C:\\Users\\jfabi\\OneDrive\\Im\u00E1genes\\Escritorio\\Nueva carpeta\\a\\Views\\productos\\Index.cshtml",
-              "RelativeDocumentMoniker": "a\\Views\\productos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jfabi\\OneDrive\\Im\u00E1genes\\Escritorio\\Nueva carpeta\\a\\Views\\productos\\Index.cshtml",
-              "RelativeToolTip": "a\\Views\\productos\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
->>>>>>> af62adbc0c8d2c7e966987bb5e5a3f6abc6dfe85
+              "DocumentMoniker": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Views\\productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Views\\productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Views\\productos\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Views\\productos\\Index.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-09T22:55:24.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-10T22:06:52.829Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "a\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "a\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\OneDrive\\Desktop\\trabajo.net\\trabajo.net\\a\\a\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "a\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\fabia\\OneDrive\\Desktop\\trabajo.net\\trabajo.net\\a\\a\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "a\\Controllers\\PacienteController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T22:55:04.626Z",
+              "WhenOpened": "2026-05-10T22:06:52.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 4,
-              "Title": "Class.cs",
-              "DocumentMoniker": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Models\\Class.cs",
-              "RelativeDocumentMoniker": "a\\Models\\Class.cs",
-              "ToolTip": "C:\\Users\\tampi\\OneDrive\\Documentos\\GitHub\\Avance-Evaluacion-II\\a\\Models\\Class.cs",
-              "RelativeToolTip": "a\\Models\\Class.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAsAAAAqAAAAAAAAAA==",
-=======
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jfabi\\OneDrive\\Im\u00E1genes\\Escritorio\\Nueva carpeta\\a\\Program.cs",
-              "RelativeDocumentMoniker": "a\\Program.cs",
-              "ToolTip": "C:\\Users\\jfabi\\OneDrive\\Im\u00E1genes\\Escritorio\\Nueva carpeta\\a\\Program.cs",
-              "RelativeToolTip": "a\\Program.cs",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fabia\\OneDrive\\Desktop\\trabajo.net\\trabajo.net\\a\\a\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "a\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fabia\\OneDrive\\Desktop\\trabajo.net\\trabajo.net\\a\\a\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "a\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
->>>>>>> af62adbc0c8d2c7e966987bb5e5a3f6abc6dfe85
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-10T22:06:52.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\OneDrive\\Desktop\\trabajo.net\\trabajo.net\\a\\a\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "a\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\fabia\\OneDrive\\Desktop\\trabajo.net\\trabajo.net\\a\\a\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "a\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T22:54:21.467Z",
+              "WhenOpened": "2026-05-10T22:06:52.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\OneDrive\\Desktop\\trabajo.net\\trabajo.net\\a\\a\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "a\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\fabia\\OneDrive\\Desktop\\trabajo.net\\trabajo.net\\a\\a\\Models\\Class.cs",
+              "RelativeToolTip": "a\\Models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:06:52.918Z",
               "EditorCaption": ""
             }
           ]
