@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using a.Models; 
 using System;
 using System.Collections.Generic;
@@ -15,14 +15,12 @@ namespace a.Controllers
                  rut: "12.345.678-9",
                  nacimiento: new DateTime(1990, 5, 20),
                  peso: 72.5f,
-                 correo: "juan.perez.com",
+                 correo: "juan.perez@example.com",
                  alergias: true,
                  tipoSangre: "O+",
                  prevision: true
              );
 
-            // Create a list of pacientes and pass it to the view
-            var pacientes = new List<Paciente> { paciente1 };
             return View(pacientes);
         }
     }
